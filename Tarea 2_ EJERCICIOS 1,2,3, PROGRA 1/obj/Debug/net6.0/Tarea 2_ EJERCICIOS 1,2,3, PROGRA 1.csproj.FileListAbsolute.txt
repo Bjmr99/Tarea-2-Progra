@@ -1,0 +1,15 @@
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.csproj.AssemblyReference.cache
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.AssemblyInfoInputs.cache
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.AssemblyInfo.cs
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.exe
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.deps.json
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.runtimeconfig.json
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.dll
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\ref\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.dll
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\bin\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.pdb
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.dll
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\ref\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.dll
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.pdb
+C:\Users\Bryan Martinez\source\repos\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1\obj\Debug\net6.0\Tarea 2_ EJERCICIOS 1,2,3, PROGRA 1.genruntimeconfig.cache
